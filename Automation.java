@@ -19,7 +19,7 @@ import org.openqa.selenium.support.ui.Select;
 
 import com.google.common.io.Files;
 
-public class coffee {
+public class Automation {
 
 	public static void main(String[] args) throws InterruptedException, IOException {
 		
